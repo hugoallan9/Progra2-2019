@@ -18,7 +18,7 @@ chunks:
 
         # M503 - Programación Matemática 2
 
-        <img src="repo:images/turing" width = "40%" height = "40%">
+        <img src="repo:images/turing.jfif" width = "40%" height = "40%">
 
         ## Generalidades del curso
         El curso M503 - Programación Matemática 2 se imparte los días Lunes, Martes, Jueves y Viernes
@@ -34,19 +34,6 @@ chunks:
         Puedes descargar el programa del curso [acá](repocur:pdfs/m503-1S2019.pdf)
 
         Toma en cuenta que debes cumplir con las [reglas del curso](staticpage:reglas)
-
-        ## Códigos vistos en clase
-
-        ## Tareas
-        [Tarea 1](flow:tarea1)
-
-        ## Prácticas
-        [Práctica 1](flow:practica1)
-        
-        [Práctica 2](repocur:pdfs/Practica2.pdf)
-
-        ##Proyecto
-        [Proyecto](repocur:pdfs/Proyectos.pdf)
 
 -
     title: "Tareas"
