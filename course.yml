@@ -1,0 +1,67 @@
+chunks:
+
+-
+    title: "M503 - Programación Matemática 2"
+    id: welcome
+    rules:
+    -
+        if_after: 2018-09-01
+        if_before: 2038-01-01 13:00:00 -5
+        weight: 100
+
+    -
+        weight: 0
+
+    content: |
+
+
+
+        # M503 - Programación Matemática 2
+
+        <img src="repo:images/turing" width = "40%" height = "40%">
+
+        ## Generalidades del curso
+        El curso M503 - Programación Matemática 2 se imparte los días Lunes, Martes, Jueves y Viernes
+        
+        **Horario:** 11:40 a 12:30
+        
+        **Lugar:** Edificio T-3 salón 407
+
+        **Horas de oficina:** El estudiante podrá consultar dudas acerca del curso en el edificio T-1
+        Laboratorio II (antigua FISIRED), en horario de 10:00 am a 10:50 am. Cualquier consulta fuera de ese horario
+        deberá ser solicitada por vía [electrónica](mailto:admin@hagarcia.com)   
+
+        Puedes descargar el programa del curso [acá](repocur:pdfs/m503-1S2019.pdf)
+
+        Toma en cuenta que debes cumplir con las [reglas del curso](staticpage:reglas)
+
+        ## Códigos vistos en clase
+
+        ## Tareas
+        [Tarea 1](flow:tarea1)
+
+        ## Prácticas
+        [Práctica 1](flow:practica1)
+        
+        [Práctica 2](repocur:pdfs/Practica2.pdf)
+
+        ##Proyecto
+        [Proyecto](repocur:pdfs/Proyectos.pdf)
+
+-
+title: "Tareas"
+    id: tarea
+    rules:
+    -
+        if_after: 2019-02-04 13:00:00 -5
+        if_before: 2038-01-01 13:00:00 -5
+        weight: 50
+        shown: True
+
+    -
+        weight: 0
+        shown: False
+
+    content: |
+
+        ## Tareas
