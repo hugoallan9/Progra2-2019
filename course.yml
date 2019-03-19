@@ -35,6 +35,7 @@ chunks:
 
         Toma en cuenta que debes cumplir con las [reglas del curso](staticpage:reglas)
 
+        Puede ver los códigos vistos en clase [acá](url:)
 -
     title: "Tareas"
     id: tarea
@@ -51,3 +52,18 @@ chunks:
 
     content: |
         ## Tareas
+
+    title: "Prácticas y Proyectos"
+    id: tarea
+    rules:
+        - if_after: 2019-02-04 13:00:00 -5
+          if_before: 2038-01-01 13:00:00 -5
+          weight: 50
+          shown: True
+
+        - weight: 0
+          shown: False
+
+    content: |
+        ## Prácticas
+        [Práctica 1](repocur:pdfs/Practica1.pdf)
